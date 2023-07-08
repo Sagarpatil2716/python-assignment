@@ -1,0 +1,37 @@
+20 interview questions covering data types, operators, conditional statements, looping statements, and functions:
+
+Data Types:
+
+1 What are the primitive data types in programming languages?
+2 What is the difference between a float and a double data type?
+3 Explain the concept of typecasting in programming.
+4 What is the difference between a string and a character data type?
+5 What is the maximum value that can be stored in an integer data type?
+Operators:
+6. What is the difference between the "==" and "===" operators in programming?
+
+7 Explain the difference between the "&&" and "||" operators.
+8 What is the purpose of the ternary operator "? :"?
+9 How do you compare two strings in programming?
+10 What is operator precedence and how does it affect the evaluation of expressions?
+Conditional Statements:
+11. What are the different types of conditional statements in programming?
+
+12 Explain the difference between "if" and "switch" statements.
+13 How do you write nested conditional statements in a programming language?
+14 What is the purpose of the "else if" statement?
+15 Can you have multiple conditions in a single "if" statement?
+Looping Statements:
+16. What is the difference between a "for" loop and a "while" loop?
+
+17 How do you break out of a loop in programming?
+18 Explain the concept of an infinite loop and how to avoid it.
+19 What is the purpose of the "continue" statement in a loop?
+20 How do you iterate over the elements of an array using a loop?
+Functions:
+21. What is a function in programming and why is it useful?
+
+22 How do you define a function in a programming language?
+23 Explain the difference between a parameter and an argument.
+24 Can a function return multiple values? If yes, how?
+25 What is the difference between call by value and call by reference in function parameter passing?
